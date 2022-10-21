@@ -1,0 +1,22 @@
+<!--HTML FILE-->
+<!DOCTYPE html>
+<html>
+  <head>
+<link rel="stylesheet" type="text/CSS" href="css.css">
+  </head>
+  <body> 
+   <h1>It's a Sunny Day!</h1>
+   <p>I'm glad it's not cloudy today!</p>
+  </body>
+
+  <!--CSS FILE-->
+  
+  h1{
+  background-color: yellow;
+  box-shadow: 5px 10px orange;
+}
+
+p{
+  background-color: grey;
+  box-shadow: 10px 15px 10px blue;
+}
